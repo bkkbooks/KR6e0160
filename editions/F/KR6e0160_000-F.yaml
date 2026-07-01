@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6e0160/f/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 漩澓偈
+  edition:
+    short: f
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/F/F28/F28n1083.xml
+    old_id: F28n1083
+hash: sha256:760ddc19a3369ad3ab2cc8a8e5c6d2f2ef5743d951a59bd4a7bafcf61e49deb8
